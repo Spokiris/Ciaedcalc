@@ -115,7 +115,7 @@ int main() {
                    "-enter \"c\" para calcular a nota final\n");
         } 
         else {
-            printf("-enter \"h\" para mostrar as definicoes validas")
+            printf("-enter \"h\" para mostrar as definicoes validas");
         }
     }
     return 0;
